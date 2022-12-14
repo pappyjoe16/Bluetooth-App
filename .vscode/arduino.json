@@ -1,6 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "arduino:avrispmkii",
-    "sketch": "Bluetooth.ino",
-    "port": "/dev/ttyS1"
+    "sketch": "arduino-vscode.ino"
 }
