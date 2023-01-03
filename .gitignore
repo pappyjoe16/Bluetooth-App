@@ -1,0 +1,8 @@
+tmp/*
+deploy/*
+*.log
+__pycache__
+pyshtables.py
+*.lock
+*.json
+*.odt#
